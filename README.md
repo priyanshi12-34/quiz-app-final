@@ -42,3 +42,6 @@ Tech Stack 🛠
    npm run dev
    
   Open the local URL printed by Vite in your browser
+
+**LIVE DEMO**
+YOU CAN TRY THE APP HERE- https://earnest-biscuit-7c54b7.netlify.app/
