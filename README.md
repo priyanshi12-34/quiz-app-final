@@ -1,8 +1,8 @@
-Quiz App 
+**Quiz App-** 
  
 A simple and interactive *Quiz Application* built with *React*. This app allows users to take quizzes, see their scores, and track their progress. It’s designed for learning and testing knowledge across different topics. 📝
 
-Features ✨
+**Features✨-**
 
 Start screen with *"Click to Play Quiz"* 
 
@@ -23,7 +23,7 @@ Smooth navigation between questions ↔
 *High scores* stored in *localStorage* (top 5) 💾
 
 
-Tech Stack 🛠
+**Tech Stack-**
 
 *Frontend:* React.js ⚛
 *Styling:* Tailwind CSS 🎨
@@ -31,7 +31,7 @@ Tech Stack 🛠
 *Persistence:* LocalStorage for storing high scores 💾
 *Build Tool:* Vite ⚡
 
- Run 🏃‍♀
+ **Run-**
  
  Install dependencies:
    
@@ -43,6 +43,6 @@ Tech Stack 🛠
    
   Open the local URL printed by Vite in your browser
 
-**LIVE DEMO**
+**LIVE DEMO-**
 
 YOU CAN TRY THE APP HERE- https://earnest-biscuit-7c54b7.netlify.app/
