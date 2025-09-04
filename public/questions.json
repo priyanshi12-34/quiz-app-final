@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of React?",
+    "options": [
+      "To style web pages",
+      "To build interactive UIs",
+      "To manage databases",
+      "To run server-side scripts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used to manage state in React functional components?",
+    "options": ["useState", "useEffect", "useReducer", "useContext"],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "Which company developed React?",
+    "options": ["Google", "Facebook (Meta)", "Microsoft", "Apple"],
+    "correctIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Syntax",
+      "Colorful Style Sheets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "Which HTML tag is used for links?",
+    "options": ["link", "a", "href", "url"],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Which attribute in HTML sets an element’s unique identifier?",
+    "options": ["class", "id", "name", "key"],
+    "correctIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Which of these is used to store data in the browser?",
+    "options": ["localStorage", "MongoDB", "MySQL", "ReactState"],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "Which JavaScript method is used to select an element by ID?",
+    "options": ["getElementById()", "querySelectorAll()", "getElementsByClassName()", "querySelector()"],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Which hook is used to perform side effects in React?",
+    "options": ["useState", "useEffect", "useReducer", "useContext"],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "What is JSX in React?",
+    "options": [
+      "JavaScript XML",
+      "JavaScript Extended",
+      "Java Syntax eXtension",
+      "Just Simple XHTML"
+    ],
+    "correctIndex": 0
+  }
+]
